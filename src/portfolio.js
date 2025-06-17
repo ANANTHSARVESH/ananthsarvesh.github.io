@@ -26,9 +26,9 @@ const projects = [
       'E-Commerce Application with Spring Boot This is a simple e-commerce application built using Spring Boot, JWT Authentication, and MySQL. The application is designed to support two roles: USER and ADMIN, and provides functionality to manage products and categories in an online store.',
     stack: ['Java', 'MySQL', 'Spring Boot', 'Hibernate', 'JWT'],
     sourceCode: 'https://github.com/ANANTHSARVESH/ECommerce.git',
-    //livePreview: 'https://github.com',
+    // livePreview: 'https://github.com',
   },
-  /*{
+ /* {
     name: 'Project 2',
     description:
       'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
@@ -43,7 +43,7 @@ const projects = [
     stack: ['SASS', 'TypeScript', 'React'],
     sourceCode: 'https://github.com',
     livePreview: 'https://github.com',
-  },*/
+  }, */
 ]
 
 const skills = [
@@ -69,7 +69,7 @@ const contact = {
 
 export { header, about, projects, skills, contact }
 
-//Package.json
+// Package.json
 //  "scripts": {
 //    "start": "react-scripts start --openssl-legacy-provider",
 //    "build": "react-scripts build --openssl-legacy-provider",
