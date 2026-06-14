@@ -10,7 +10,7 @@ const about = {
   role: 'Java Backend Developer',
   description:
     'I’m a passionate Java Backend Developer with 3+ years of experience building scalable and secure REST APIs using Spring Boot, Microservices, and MySQL in the BFSI domain. I enjoy solving real-world problems with clean code, strong logic, and efficient architecture.\nCurrently, I’m enhancing my skills in System Design, Kafka, and DSA, aiming to join top-tier product companies. I believe in continuous learning, sharing knowledge, and building side projects that reflect my skills and growth.',
-  resume: 'https://drive.google.com/file/d/1xtLWi_UlXR23jCV_bmuazPlaNcwWuloG/view?usp=sharing',
+  resume: 'https://drive.google.com/file/d/1WqVMHrosXOHjeB7RwH4IJkpM3Q_7RbDb/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/ananthsarvesh724',
     github: 'https://github.com/ANANTHSARVESH',
